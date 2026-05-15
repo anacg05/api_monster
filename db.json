@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "nome": "Monster Original",
+        "descricao": "O clássico sabor refrescante que você já conhece.",
+        "imagemUrl": "https://vignette.wikia.nocookie.net/monsterenergy/images/b/b3/Monster_Energy_Logo.png",
+        "hexColor": "0xFF8DFD0E"
+    },
+    {
+        "id": "2",
+        "nome": "Mango Loco",
+        "descricao": "Um mix suculento de frutas exóticas com um toque de manga.",
+        "imagemUrl": "https://vignette.wikia.nocookie.net/monsterenergy/images/5/52/Mango_Loco.png",
+        "hexColor": "0xFFFF8200"
+    }
+]
