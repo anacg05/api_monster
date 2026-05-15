@@ -4,14 +4,14 @@
         "nome": "Monster Original",
         "descricao": "O clássico sabor refrescante que você já conhece.",
         "imagemUrl": "assets/images/original.png",
-        "hexColor": "0xFF8DFD0E"
+        "hexColor": "0xFF89ce03"
     },
     {
         "id": "2",
         "nome": "Mango Loco",
         "descricao": "Um mix suculento de frutas exóticas com um toque de manga.",
         "imagemUrl": "assets/images/mangoloko.png",
-        "hexColor": "0xFFFF8200"
+        "hexColor": "0xFF01A1D6"
     },
     {
         "id": "3",
@@ -25,62 +25,62 @@
         "nome": "Pipeline Punch",
         "descricao": "A mistura perfeita de maracujá, laranja e goiaba.",
         "imagemUrl": "assets/images/pipeline.png",
-        "hexColor": "0xFFFF5F5F"
+        "hexColor": "0xFFce4151"
     },
     {
         "id": "5",
         "nome": "Ultra Paradise",
         "descricao": "Sabor puro de ilha tropical com kiwi e limão.",
         "imagemUrl": "assets/images/ultraparadise.png",
-        "hexColor": "0xFF66FF00"
+        "hexColor": "0xFF34b304"
     },
     {
         "id": "6",
         "nome": "Ultra Violet",
         "descricao": "Sabor de uva cítrica sem açúcar. O poder do roxo!",
         "imagemUrl": "assets/images/ultraviolet.png",
-        "hexColor": "0xFF633282"
+        "hexColor": "0xFF8a6ab6"
     },
     {
         "id": "7",
         "nome": "Pacific Punch",
         "descricao": "Clássico sabor de ponche de frutas com a energia Monster.",
         "imagemUrl": "assets/images/pacificpunch.png",
-        "hexColor": "0xFF0055A4"
+        "hexColor": "0xFFe2d1b3"
     },
     {
         "id": "8",
         "nome": "Monster Ultra Peachy Keen",
         "descricao": "Sabor refrescante de pêssego com zero açúcar.",
         "imagemUrl": "assets/images/peach.png",
-        "hexColor": "0xFFFFB347"
+        "hexColor": "0xFFed8b72"
     },
     {
         "id": "9",
         "nome": "The Doctor VR46",
         "descricao": "Edição especial Valentino Rossi com um sabor cítrico e leve.",
         "imagemUrl": "assets/images/thedoctor.png",
-        "hexColor": "0xFFFFF000"
+        "hexColor": "0xFFdad239"
     },
     {
         "id": "10",
         "nome": "Ultra Watermelon",
         "descricao": "O sabor do verão com melancia e a energia Monster.",
         "imagemUrl": "assets/images/melancia.png",
-        "hexColor": "0xFFFC6C85"
+        "hexColor": "0xFFbe0201"
     },
     {
         "id": "11",
         "nome": "Absolutely Zero",
         "descricao": "Todo o sabor do Monster original com absolutamente zero açúcar.",
         "imagemUrl": "assets/images/absolutelyzero.png",
-        "hexColor": "0xFF333333"
+        "hexColor": "0xFF0078a3"
     },
     {
         "id": "12",
         "nome": "Mango Fiesta",
         "descricao": "Uma explosão tropical de manga com o toque energético.",
         "imagemUrl": "assets/images/mangofiesta.png",
-        "hexColor": "0xFFFF8000"
+        "hexColor": "0xFF028a8a"
     }
 ]
